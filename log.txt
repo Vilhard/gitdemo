@@ -1,0 +1,23 @@
+commit 100306756d3d9e41966bafe4c999bb34ea63bf5c
+Author: Hotakainen Ville <a1800623@myy.haaga-helia.fi>
+Date:   Wed Aug 21 11:20:37 2019 +0300
+
+    Poistettu tekstiä
+
+commit 2ea71fa8f9ea44816095d248f54c7454ee3bfe41
+Author: Hotakainen Ville <a1800623@myy.haaga-helia.fi>
+Date:   Wed Aug 21 11:17:19 2019 +0300
+
+    Lisätty uusi html-sivu
+
+commit ab1944e6801fb41e1e29e37a9d37537506ecacff
+Author: Hotakainen Ville <a1800623@myy.haaga-helia.fi>
+Date:   Wed Aug 21 11:14:33 2019 +0300
+
+    Lisätty uusi header
+
+commit 6433e1cfa29864528a568e9228dbd38890ad3f14
+Author: Hotakainen Ville <a1800623@myy.haaga-helia.fi>
+Date:   Wed Aug 21 10:41:13 2019 +0300
+
+    Ensimmäinen commit
